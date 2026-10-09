@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514928144259",
+    "project_id": "cmput301-lab5-e8a30",
+    "storage_bucket": "cmput301-lab5-e8a30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514928144259:android:ccac23e5b6e95a11e810b6",
+        "android_client_info": {
+          "package_name": "com.example.listycity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAICYl3Gbf_Kkk6VVK5f5Na08pbpKJH3-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
